@@ -1,4 +1,4 @@
-# Ejemplos #
+# examples #
 
 ## Pie Chart: https://pythontic.com/visualization/charts/piechart ##
 
